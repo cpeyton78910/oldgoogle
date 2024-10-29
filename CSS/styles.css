@@ -45,6 +45,10 @@ table {
   transform: translate(-50%);
 }
 
+i {
+  line-height: 1.8rem;
+}
+
 h2 {
   text-align: center;
 }
