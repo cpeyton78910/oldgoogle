@@ -1,0 +1,22 @@
+body {
+  background-color: white;
+}
+
+.aboutGoogle {
+  text-align: center;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.aboutGoogle h1 {
+  color: red;
+  font-family: Arial, helvetica;
+  display: inline;
+}
+
+h2 {
+  color: red;
+  font-family: Arial, Helvetica;
+}

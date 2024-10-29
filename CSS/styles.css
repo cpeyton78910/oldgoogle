@@ -1,0 +1,59 @@
+html {
+  display: table;
+  margin: 0 auto;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+body {
+  display: table-cell;
+  position: relative;
+  transform: translate(-50%);
+  background-color: white;
+  transform: scale(1.4);
+}
+
+.mainContent {
+  margin: 0 auto;
+  text-align: center;
+}
+
+table {
+  padding: 0;
+}
+
+#searchContainer {
+  width: 100%;
+  background: #eee;
+  text-align: center;
+}
+
+#searchForm {
+  padding: 0 27.3125rem;
+}
+
+.mainContent h2 {
+  font-size: 1rem;
+  line-height: 0;
+  font-weight: 400;
+}
+
+.container {
+  position: absolute;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%);
+}
+
+h2 {
+  text-align: center;
+}
+
+.footer {
+  position: absolute;
+  bottom: -45%;
+  width: 100%;
+  background-color: white;
+  color: black;
+  text-align: center;
+}
